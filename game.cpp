@@ -6,7 +6,7 @@
 #include <cstdlib>
 using namespace std;
 
-//не работает
+//теперь работает
 void WOOP(vector<char> &v){
 	v.clear();
 }
